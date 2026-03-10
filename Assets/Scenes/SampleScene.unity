@@ -453,7 +453,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e5f1ced8fb348d7489ab9e25aaa657db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Airplane
-  enginePower: 1
+  enginePower: 20
   liftBooter: 0.5
   drang: 0.001
   angularDrag: 0.001
